@@ -5,8 +5,8 @@
 <h1 align="center">Hello there! My name is Velile Vamba. 👋🤓</h1>
 
 <p align='center'>
-<a href="https://http://twitter.com/vetjurv4"><img height="30" src="https://user-images.githubusercontent.com/30547148/93409078-5dc20280-f896-11ea-9011-486484e9b2e6.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/velile-vamba/"><img height="30" src=https://user-images.githubusercontent.com/30547148/93409075-5bf83f00-f896-11ea-8e2a-71c6010fa2b3.png?raw=true"></a>
+<a href="https://twitter.com/vetjurv4" target="_blank><img height="30" src="https://user-images.githubusercontent.com/30547148/93409078-5dc20280-f896-11ea-9011-486484e9b2e6.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/velile-vamba/" target="_blank><img height="30" src=https://user-images.githubusercontent.com/30547148/93409075-5bf83f00-f896-11ea-8e2a-71c6010fa2b3.png?raw=true"></a>
 </p>
   <h3 align="center">About </h3>
 <p align="center">
