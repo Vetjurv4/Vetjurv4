@@ -10,9 +10,9 @@
 </p>
   <h3 align="center">About </h3>
 <p align="center">
-Since from a young age I have been a fan of science,technology and innovation. Even though I was just a fan at that time I have always 
-been fascinated about how much more can a computer do ( :joy: yeah I have been interested in making sci-fi a reality). This is the reason I
-dreamt of being a scientist ( :smiley: You don't know the excitment now that I am a Computer Scientist :sunglasses: ). Therefore these projects don't reflect my ability
-but rather some of what I have learnt so far. Welcome to my learning journey of becoming the best computer scientist.!!!!
+Since from a young age I have been passionate about science,technology and innovation. Even though I was just a fan at that time I have always 
+been fascinated about how much more can a computer do. I grew up with a dream of being a scientist and develop solutions that will change the world and 
+this what drives me everyday. I taught myself programming and became a freelancing developer and then I decided to study BSc Computer Science & Informatics from 
+the University of Johannesburg to get closer to my dreams.
 </p>
 
