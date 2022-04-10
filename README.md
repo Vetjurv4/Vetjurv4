@@ -12,6 +12,6 @@
 <p align="center">
 Since from a young age I have been passionate about science,technology and innovation. Even though I was just a fan at that time I have always 
 been fascinated about how much more can a computer do. I grew up with a dream of being a scientist and to develop solutions that will change the world and 
-this what drives me everyday. I am self driven, goal orientated and so throughout my career life I hve been taking steps closer to my dreams, I taught myself programming and became a freelancing developer and then later went to study a BSc Computer Science & Informatics from the University of Johannesburg.
+this what drives me everyday. I am self driven, goal orientated and so throughout my career life I hve been taking steps closer to my dreams, I taught myself programming and became a freelancing developer and then later went to study a BSc Computer Science & Informatics from the University of Johannesburg and I am currently working as a software developer.
 </p>
 
