@@ -10,8 +10,7 @@
 </p>
   <h3 align="center">About </h3>
 <p align="center">
-Since from a young age I have been passionate about science,technology and innovation. Even though I was just a fan at that time I have always 
-been fascinated about how much more can a computer do. I grew up with a dream of being a scientist and to develop solutions that will change the world and 
-this what drives me everyday. I am self driven, goal orientated and so throughout my career life I hve been taking steps closer to my dreams, I taught myself programming and became a freelancing developer and then later went to study a BSc Computer Science & Informatics from the University of Johannesburg and I am currently working as a software developer.
+Welcome to my GitHub profile! From a young age, I've been passionate about science, technology, and innovation. My fascination with computers sparked a dream of becoming a scientist and creating solutions that can change the world. This drive has shaped my career path: I taught myself programming, became a freelance developer, and earned a BSc in Computer Science & Informatics from the University of Johannesburg.
+This platform serves as my creative space, showcasing a variety of projects I’ve developed for different purposes—some to enhance my skills, others to explore innovative ideas, and many to contribute to the community. 
 </p>
 
